@@ -25,8 +25,8 @@ If the number of trustees able to investigate and discuss the complaint is less 
 
 Once the investigating panel has been formed, the complaint follows the flow in the appropriate section below.
 
-Complaints Against Nottinghack
-------------------------------
+Complaints Against Preston Hackspace
+------------------------------------
 
 Complaints fall into this category if they are made against the hackspace as a whole, or a section of the organisation, such as a team.
 
