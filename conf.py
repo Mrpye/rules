@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 #
-# Nottingham Hackspace Rules documentation build configuration file, created by
+# Preston Hackspace Rules documentation build configuration file, created by
 # sphinx-quickstart on Mon Nov  9 08:25:35 2015.
 #
 # This file is execfile()d with the current directory set to its
@@ -48,9 +48,9 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = u'Nottingham Hackspace Rules'
-copyright = u'2015, Nottingham Hackspace'
-author = u'Nottingham Hackspace'
+project = u'Preston Hackspace Rules'
+copyright = u'2015, Preston Hackspace'
+author = u'Preston Hackspace'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -206,7 +206,7 @@ html_static_path = ['_static']
 #html_search_scorer = 'scorer.js'
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'NottinghamHackspaceRulesdoc'
+htmlhelp_basename = 'PrestonHackspaceRulesdoc'
 
 # -- Options for LaTeX output ---------------------------------------------
 
@@ -231,8 +231,8 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-  (master_doc, 'NottinghamHackspaceRules.tex', u'Nottingham Hackspace Rules Documentation',
-   u'Nottingham Hackspace', 'manual'),
+  (master_doc, 'PrestonHackspaceRules.tex', u'Preston Hackspace Rules Documentation',
+   u'Preston Hackspace', 'manual'),
 ]
 
 # The name of an image file (relative to this directory) to place at the top of
@@ -261,7 +261,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'nottinghamhackspacerules', u'Nottingham Hackspace Rules Documentation',
+    (master_doc, 'prestonhackspacerules', u'Preston Hackspace Rules Documentation',
      [author], 1)
 ]
 
@@ -275,8 +275,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-  (master_doc, 'NottinghamHackspaceRules', u'Nottingham Hackspace Rules Documentation',
-   author, 'NottinghamHackspaceRules', 'One line description of project.',
+  (master_doc, 'PrestonHackspaceRules', u'Preston Hackspace Rules Documentation',
+   author, 'PrestonHackspaceRules', 'One line description of project.',
    'Miscellaneous'),
 ]
 

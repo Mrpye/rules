@@ -13,4 +13,4 @@ If you wish to **store solvents** or other flammable/dangerous liquids, they mus
 
 If you use the **spray booth**, you can of course leave your project to dry for up to 24 hours and drying racks are provided for this outside the booth, however please ensure it is labelled with a Do Not Hack sign - this can be on the shelves if applying a label would damage your project.
 
-You can find more information about bike storage here. (https://wiki.nottinghack.org.uk/wiki/Bike_Storage)
+You can find more information about bike storage here. (https://wiki.prestonhackspace.org.uk/wiki/Bike_Storage)

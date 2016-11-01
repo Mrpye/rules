@@ -7,4 +7,4 @@ There are housekeeping tasks that always need doing, and can be completed by any
 
 Please make yourself aware of our **complaints policy** (Appendix A).
 
-Remember that Nottingham Hackspace is run by the volunteers for the members, and we ask that you be a **member not a consumer**. Don’t be a greedy hacker.
+Remember that Preston Hackspace is run by the volunteers for the members, and we ask that you be a **member not a consumer**. Don’t be a greedy hacker.
